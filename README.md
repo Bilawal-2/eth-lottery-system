@@ -63,7 +63,6 @@ npx hardhat test
 ## Security
 
 - Smart contracts are audited for security vulnerabilities
-- Randomness is provided by Chainlink VRF
 - Admin functions are protected with OpenZeppelin's Ownable
 
 ## License
