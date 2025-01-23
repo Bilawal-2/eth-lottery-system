@@ -38,7 +38,6 @@ A decentralized lottery system built on the Ethereum blockchain where participan
 ### Backend
 - Hardhat - Development environment
 - Solidity - Smart contracts
-- Chainlink VRF - Random number generation
 
 ## Setup
 
