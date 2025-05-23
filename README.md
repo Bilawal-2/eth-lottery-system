@@ -43,7 +43,7 @@ A decentralized lottery system built on the Ethereum blockchain where participan
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/eth-lottery-system.git
+git clone https://github.com/Bilawal-2/eth-lottery-system.git
 cd eth-lottery-system
 ```
 
